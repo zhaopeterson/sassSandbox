@@ -5,7 +5,7 @@ var gulp = require('gulp'),
     webserver = require('gulp-webserver');
 
 gulp.task('js', function() {
-  return gulp.src('builds/sassEssentials/js/myscript.js')
+  return gulp.src('builds/sassSandbox/js/myscript.js')
     .pipe(jshint('./.jshintrc'))
     .pipe(jshint.reporter('jshint-stylish'));
 });
