@@ -1,0 +1,530 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"querySelec",
+				"querySelectorAll"
+			],
+			[
+				"Rem",
+				"remainPie"
+			],
+			[
+				"remov",
+				"removeTarget"
+			],
+			[
+				"check",
+				"checkinsList"
+			],
+			[
+				"meetin",
+				"meetingsRef"
+			],
+			[
+				"auth",
+				"authUser"
+			],
+			[
+				"re",
+				"RegistrationController"
+			],
+			[
+				"selct",
+				"selectAll"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"m",
+				"moveoffsetY"
+			],
+			[
+				"move",
+				"moveOffsetX"
+			],
+			[
+				"audio",
+				"audioPlayer"
+			],
+			[
+				"soc",
+				"socialLists"
+			],
+			[
+				"s",
+				"socialLists"
+			],
+			[
+				"art",
+				"artistControllers"
+			],
+			[
+				"rep-",
+				"rep-lookup-results"
+			],
+			[
+				"flower",
+				"flower-description"
+			],
+			[
+				"se",
+				"searchField"
+			],
+			[
+				"wai",
+				"waitTime"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "process/sass/style.scss",
+			"settings":
+			{
+				"buffer_size": 209,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "builds/sassEssentials/index.html",
+			"settings":
+			{
+				"buffer_size": 8309,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "process/sass/_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 871,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "process/sass/modules/_backgrounds.scss",
+			"settings":
+			{
+				"buffer_size": 544,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brookepeterson/Desktop/web-responsive/index.html",
+		"/Users/brookepeterson/Desktop/web-responsive/section_content.html",
+		"/Users/brookepeterson/Desktop/web-responsive/css/screen.css",
+		"/Users/brookepeterson/Desktop/Ex_Files_jQuery_EssT/Exercise Files/landonhotel/Start/index.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_jQuery_EssT/Exercise Files/landonhotel/Start/specials.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_jQuery_EssT/Exercise Files/Ch_3/css_start.htm",
+		"/Users/brookepeterson/Desktop/Ex_Files_jQuery_EssT/Exercise Files/Ch_3/creating_finished.htm",
+		"/Users/brookepeterson/Desktop/Ex_Files_jQuery_EssT/Exercise Files/Ch_4/binding_start.htm",
+		"/Users/brookepeterson/Desktop/Ex_Files_jQuery_EssT/Exercise Files/Ch_3/data_start.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_jQuery_EssT/Exercise Files/landonhotel/Start/restaurant-to-room-service.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_jQuery_EssT/Exercise Files/Ch_1/Events_intro.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_jQuery_EssT/Exercise Files/Ch_1/Animations_intro.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_jQuery_EssT/Exercise Files/Ch_1/AJAX_intro.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_jQuery_EssT/Exercise Files/Ch_2/traversing_finished.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_jQuery_EssT/Exercise Files/Ch_2/traversing_start.html",
+		"/Users/brookepeterson/Desktop/prototypes/wedge/wedge-server/public/com.lgsvl.app.wedge/js/app.js",
+		"/Users/brookepeterson/Desktop/forfolio-jsevents/events4/style.css",
+		"/Users/brookepeterson/Desktop/forfolio-jsevents/events4/script.js",
+		"/Applications/MAMP/htdocs/prototypes/wedge/wedge-server/public/com.lgsvl.app.wedge/partials/video.html",
+		"/Users/brookepeterson/Desktop/forfolio-jsevents/events4/emmet.html",
+		"/Users/brookepeterson/Desktop/forfolio-jsevents/events3/index.html",
+		"/Users/brookepeterson/Desktop/forfolio-jsevents/events3/loadlarge.css",
+		"/Users/brookepeterson/Desktop/forfolio-jsevents/events3/loadlarge.js",
+		"/Users/brookepeterson/Desktop/forfolio-jsevents/event2/index.html",
+		"/Users/brookepeterson/Desktop/forfolio-jsevents/event2/enlargepie.css",
+		"/Users/brookepeterson/Desktop/forfolio-jsevents/event2/enlargepie.js",
+		"/Users/brookepeterson/Desktop/forfolio-jsevents/pickpie.css",
+		"/Users/brookepeterson/Desktop/forfolio-jsevents/pickpie.js",
+		"/Users/brookepeterson/Desktop/forfolio-jsevents/index.html",
+		"/Users/brookepeterson/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/brookepeterson/Desktop/Ex_Files_debug_js/Exercise Files/Ch02/02_04/index.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_debug_js/Exercise Files/Ch02/02_01/index.html",
+		"/Users/brookepeterson/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/brookepeterson/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/brookepeterson/Desktop/0a_MobileSite/custom_sdcm.css",
+		"/Users/brookepeterson/Desktop/0a_MobileSite/M.html",
+		"/Users/brookepeterson/Desktop/mysqli_connect.php",
+		"/Users/brookepeterson/Desktop/chinesedishes.json",
+		"/Users/brookepeterson/Desktop/angularMobile/www/templates/home.html",
+		"/Users/brookepeterson/Desktop/angularMobile/www/templates/detail.html",
+		"/Users/brookepeterson/Desktop/angularMobile/www/js/data.json",
+		"/Users/brookepeterson/Desktop/angularMobile/www/templates/list.html",
+		"/Users/brookepeterson/Desktop/angularMobile/www/css/style.css",
+		"/Users/brookepeterson/Desktop/angularMobile/www/list.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch03/03_01/angulardata/js/app.js",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_05/angulardata/js/services/authentication.js",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_03/angulardata/js/controllers/checkins.js",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_03/angulardata/views/meetings.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_03/angulardata/views/nav.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_03/angulardata/js/app.js",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_03/angulardata/views/checkinslist.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_03/angulardata/index.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_03/angulardata/views/checkins.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_01/angulardata/js/services/authentication.js",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_01/angulardata/js/controllers/meetings.js",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_03/angulardata/js/services/authentication.js",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_04/angulardata/js/services/authentication.js",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_01/angulardata/index.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_01/angulardata/views/meetings.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch02/02_01/angulardata/js/app.js",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch01/01_03/angulardata/js/controllers/meetings.js",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch01/01_03/angulardata/index.html",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch01/01_03/angulardata/js/app.js",
+		"/Users/brookepeterson/Desktop/Ex_Files_AngularJS_DataDriven/Exercise Files/ch01/01_03/angulardata/views/meetings.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch02/02_05/angularregistration/js/app.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch02/02_05/angularregistration/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch02/02_05/angularregistration/js/controllers/registration.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch02/02_05/angularregistration/views/register.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch02/02_05/angularregistration/js/services/authentication.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch02/02_05/angularregistration/js/controllers/success.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch02/02_05/angularregistration/views/success.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch02/02_05/angularregistration/views/nav.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch02/02_09/angularregistration/js/app.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch01/01_02/angularregistration/js/services/authentication.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch01/01_02/angularregistration/js/app.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch01/01_02/angularregistration/js/controllers/registration.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch01/01_02/angularregistration/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch02/02_05/angularregistration/views/login.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch01/01_02/angularregistration/js/authentication.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch01/01_02/angularregistration/views/register.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch01/01_02/angularregistration/views/login.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch01/01_02/angularregistration/views/nav.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch01/01_02/angularregistration/js/registration.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch02/02_03/angularregistration/js/services/authentication.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch02/02_04/angularregistration/js/services/authentication.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch01/01_02/angularregistration/js/success.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_AngularJS_Registration/Exercise Files/ch01/01_02/angularregistration/views/success.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/03_04/start/D3/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/03_04/start/D3/style.css",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/04_04/start/D3/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/04_05/finished/D3/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/04_06/start/D3/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/04_06/finished/D3/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/04_02/finished/D3/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/04_01/finished/D3/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/03_04/finished/D3/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/03_04/finished/D3/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/04_01/finished/D3/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/04_02/finished/D3/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/03_03/start/D3/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/03_03/start/D3/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/03_02/start/D3/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/03_02/start/D3/style.css",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/03_02/start/D3/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/02_05/finished/D3/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/02_05/finished/D3/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/02_05/start/D3/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_DVwD3js/Exercise Files/02_05/start/D3/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/04_04/working folder/events/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/04_04/working folder/events/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/04_03/working folder/events/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/04_03/finished/events/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/04_03/working folder/events/style.css",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/04_03/working folder/events/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/03_02/working folder/events/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/03_02/working folder/events/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/03_01/working folder/events/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/03_01/working folder/events/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/03_01/working folder/events/style.css",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/02_05/working folder/events/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/02_05/working folder/events/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/02_04/working folder/events/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/02_04/working folder/events/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/02_03/finished/events/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/02_03/working folder/events/script.js",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/02_03/finished/events/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/02_03/working folder/events/index.html",
+		"/Users/brookepeterson/Downloads/Ex_Files_JS_Events/Exercise Files/02_01/working folder/events/index.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"media",
+			"start bootstrap",
+			"#cc6633",
+			"#6d0911",
+			"images_sdcm/",
+			"/sites/default/files/sdc/www/",
+			"image",
+			"green bean",
+			"doRefresh",
+			"showReorder",
+			"songPlaying",
+			"artistOrder",
+			"form",
+			"zip",
+			"rep-lookup",
+			"#flower-items",
+			"<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#4f5271",
+			"#b33ca4",
+			"images_msdc/",
+			"images_sdcm/",
+			"images_sdcm",
+			"audioPlayer"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "process/sass/style.scss",
+					"settings":
+					{
+						"buffer_size": 209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 448.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "builds/sassEssentials/index.html",
+					"settings":
+					{
+						"buffer_size": 8309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1871.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "process/sass/_mixins.scss",
+					"settings":
+					{
+						"buffer_size": 871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "process/sass/modules/_backgrounds.scss",
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}
